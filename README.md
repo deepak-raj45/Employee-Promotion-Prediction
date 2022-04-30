@@ -18,11 +18,7 @@ A web application to analyze the work of the employee and predict his promotion 
 - Python 3.8
 - Anaconda - Jupyter notebook
 - Backend api: Flask
-- Frontend : HTML,CSS 
-
-# Patners
-- [Gowsikkan](https://www.linkedin.com/in/gowsikkan/)
-- [Dharanish](https://www.linkedin.com/in/dharanish-s/)
+- Frontend : HTML,CSS. 
 
 # Dataset 
 - You can download the dataset form [Kaggle](https://www.kaggle.com/arashnic/hr-ana?select=train.csv)
@@ -40,7 +36,7 @@ A web application to analyze the work of the employee and predict his promotion 
 - length_of_service	: Length of service in years
 - awards_won : Number of awards won in years
 - avg_training_score : Average of Scores taken in training peroid	
-- is_promoted : Whether the employee is promoted or not
+- is_promoted : Whether the employee is promoted or not.
 
 # Installation
  Use can Install the packages for this application using
@@ -61,7 +57,6 @@ XG Boost
 The accuracy of the Model is 94%
 
 # Input
-Fill the Information about employee required by model in web app's UI
-
+Fill the Information about employee required by model in web app's UI.
 # Output
-The model will predict whether the employee will be promoted or not and the result will be dispayed 
+The model will predict whether the employee will be promoted or not and the result will be displayed.
